@@ -29,21 +29,6 @@ AI Model
 PDF Processing
 - pdfplumber
 
-
-Project Structure
-clause-detective/
-│
-├── app.py
-│
-├── core/
-│   ├── parser.py
-│   ├── analyzer.py
-│   ├── risk_rules.py
-│   └── redliner.py
-├── .env
-└── README.md
-
-
 How It Works
 1. Upload a contract PDF.
 2. Extract contract text using pdfplumber.
